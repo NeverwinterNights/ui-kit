@@ -1,4 +1,4 @@
 Usage:
-Install dependencies:
 
-pnpm i
+Install dependencies:
+npm i @pavel12345pavel/ui-kit
