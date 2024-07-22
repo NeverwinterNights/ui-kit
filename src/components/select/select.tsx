@@ -25,7 +25,7 @@ type CommonProps = {
   name?: string
   onBlur?: () => void
   options: Option[]
-  placeholder: ReactElement | string
+  placeholder?: ReactElement | string
   portal?: boolean
   required?: boolean
   rootClassName?: string
